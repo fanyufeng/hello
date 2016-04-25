@@ -12,6 +12,7 @@ public abstract class HelloWorld implements ProtestImpl{
 		ProtestImpl feng=new Protest("ug",3,4);
 		int result_sum=feng.sum();
 		System.out.println(result_sum);
+		System.out.println("I want a girl");
 		
 	}
 }
