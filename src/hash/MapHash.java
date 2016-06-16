@@ -1,3 +1,8 @@
+/*
+ * java-Map,Set,List
+ * author:Yufeng Fan 1102194283@qq.com
+ * ‎2016‎年‎6月‎16日 下午6：02：47
+*/
 package hash;
 import java.util.Map;
 import java.util.Set;
